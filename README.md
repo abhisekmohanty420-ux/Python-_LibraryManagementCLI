@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from services.library import Library
 
 def get_integer(message):
@@ -75,3 +76,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+=======
+# Python-_LibraryManagementCLI
+Cli project based on python OOP'S concept and Built in python modules
+>>>>>>> 03272728aa59c6ae2182b2c65f8f8c66194218fc
